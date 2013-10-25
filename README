@@ -1,0 +1,17 @@
+# TTF2GIS
+
+This repository hosts various utilities to convert a TrueType outline font
+into PostGIS format.
+
+Prerequisites:
+
+FontForge, Casper.js + Phantom.js, Perl, PostgreSQL, PostGIS.
+
+# CC0 1.0 Universal
+
+To the extent possible under law, 唐鳳 has waived all copyright and related or neighboring rights to ttf2gis.
+
+This work is published from Taiwan.
+
+<http://creativecommons.org/publicdomain/zero/1.0>
+
