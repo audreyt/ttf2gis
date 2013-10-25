@@ -1,6 +1,0 @@
-#!/usr/bin/env fontforge -script
-Open("/Users/audreyt/Downloads/TW-Kai-98_1.ttf");
-Select(0u934c)
-SelectInvert()
-Clear()
-Generate("934c.svg")
